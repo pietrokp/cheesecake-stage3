@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio Stage 3 - Cheesecake </h1>
+<h1 align="center"> Projeto Stage 3 - Cheesecake </h1>
 
 <p align="center">
 Projetos e desafios do Stage 3 do programa Explorer, da Rocketseat.
